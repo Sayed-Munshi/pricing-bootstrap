@@ -1,0 +1,47 @@
+.nav-design {
+    box-shadow: 5px 1px 20px gray;
+}
+
+.banner-HD {
+    height: 300px;
+}
+.banner h3 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.banner p {
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+}
+.price-tag {
+    float: left;
+}
+
+.text-styl {
+    text-align: center;
+    box-shadow: 5px 5px 15px gray;
+}
+.text-styl h2{
+    font-size: 40px;
+}
+
+.Head-tx {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.solid-bod {
+    border-bottom: 1px solid hsl(-0, 0%, 80%);
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.footer-tex-s h4, h6{
+    font-weight: normal;
+}
+.footer-tex-s {
+    margin-bottom: 50px;
+}
